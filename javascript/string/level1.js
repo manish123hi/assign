@@ -3,3 +3,6 @@ const user = 'ram thapa'
 user.toUpperCase();
 console.log(user)
 //RAM THAPA
+
+
+//hello rama
